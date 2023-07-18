@@ -10,3 +10,8 @@ Did healthcare stocks generally outperform other sectors during COVID-19?
 
 How quickly did healthcare stocks recover after COVID-19 compared to other sectors?
 
+What variables may affect its performance?:
+
+    Does the market cap play a role?
+
+    What about average volume
