@@ -15,3 +15,9 @@ What variables may affect its performance?:
     Does the market cap play a role?
 
     What about average volume
+
+References
+
+Data obtained from:
+https://stockmarketmba.com/index.php
+Yahoo Finance from the 'Yahoo_fin' python package
