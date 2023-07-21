@@ -1,0 +1,103 @@
+Hypothesis:
+
+Q1: Did healthcare companies perform better in the 'post-covid' period? (compared to before covid)
+
+Alternative Hypothesis: µ(returns of healthcare precovid) ≠ µ(returns of healthcare post covid)
+
+Null Hypothesis: µ(returns of healthcare precovid) = µ(returns of healthcare post covid)
+
+----
+
+Q2: Did market perform better in the 'post-covid' period? (compared to before covid)
+
+HA (alternative hypothesis): µ(returns of market precovid) ≠ µ(returns of market post covid)
+
+H0 (null hypothesis): µ(returns of market precovid) = µ(returns of market post covid)
+
+
+---
+
+Q3: is the difference in performance healthcare experienced significantly different than the market (diff-in-diff t-test)
+
+---
+
+
+
+Why and how we decided to choose this topic
+
+
+---
+
+descriptive/summary statistics: (do it for entire dataset, 
+then seperate for respective market caps (healthcare), 
+then one for just all healthcare,
+
+one for just s&p
+then one for large cap s&p,
+then one for mid cap s&p,
+one for low cap s&p)
+
+mean
+median
+mode
+variance
+std dev
+
+trend analysis
+
+potential correlation analysis
+    - as in with maybe correlation between the number of cases in the pandemic vs performance of healthcare stocks?
+    - and number of cases in the pandemic vs the market
+
+linear regression?
+
+hypothesis testing
+comparitive analysis
+
+---
+
+
+Visualizations and relationships to make and look at:
+
+comparisons between small, mid, large cap stocks
+comparisons between the respective market caps and s&P500
+comparisons between all healthcare stocks and s&P500
+comparisons between outliers and the rest of the healthcare sector
+comparisons between outliers and the s&P500
+comparisons between outliers and the rest of the healthcare stocks in its respective market cap
+
+trend analysis pre and during (potentially using moving averages)
+
+
+
+---
+
+2 sample t-tests (randomizing 500 healthcare stocks multiple times? probably 3 times)
+    market vs healthcare
+    healthcare pre and post covid
+
+
+
+---
+
+Some questions that we have (so far, and to add more):
+
+Which healthcare stocks performed best before and during COVID-19?
+
+Did healthcare stocks generally outperform the S&P500 during COVID-19?
+
+How quickly did healthcare stocks recover after COVID-19 compared to the S&P500?
+
+What variables may affect its performance?:
+
+    Does the market cap play a role?
+
+    What about average volume
+
+Low, mid, large - comparisons (before, during)
+    all versions and variations
+
+What are the outliers?
+
+How do they compare to the S&P500
+    comparison with their respective market cap?
