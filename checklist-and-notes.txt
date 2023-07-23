@@ -101,3 +101,53 @@ What are the outliers?
 
 How do they compare to the S&P500
     comparison with their respective market cap?
+
+---
+
+-whole healthcare df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+-make large cap healthcare df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+--make midcap healthcare df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+--make small cap healthcare df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+-whole market df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+-make large cap marketdf
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+--make midcap market df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+--make small cap market df
+ summary stats for pre-covid
+summary stats for post-covid
+box plot pre-covid and post-covid returns in one graph
+
+
+
+
+
+
+
+
