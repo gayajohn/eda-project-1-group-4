@@ -39,9 +39,10 @@ one for low cap s&p)
 
 mean
 median
-mode
+
 variance
 std dev
+quartiles
 
 trend analysis
 
@@ -104,54 +105,61 @@ How do they compare to the S&P500
 
 ---
 
--whole healthcare df
+-whole healthcare df (done)
  summary stats for pre-covid
 summary stats for post-covid
-box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
 
--make large cap healthcare df
- summary stats for pre-covid
-summary stats for post-covid
-box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
+box plot pre-covid and post-covid returns in one graph (need)
+bar chart pre vs post
 
---make midcap healthcare df
+-make large cap healthcare df (done)
  summary stats for pre-covid
 summary stats for post-covid
-box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
 
---make small cap healthcare df
+box plot pre-covid and post-covid returns in one graph
+bar chart pre vs post
+
+--make midcap healthcare df (done)
  summary stats for pre-covid
 summary stats for post-covid
+
 box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
+bar chart pre vs post
+
+--make small cap healthcare df (done)
+ summary stats for pre-covid
+summary stats for post-covid
+
+box plot pre-covid and post-covid returns in one graph
+bar chart pre vs post
 
 -whole market df
  summary stats for pre-covid
 summary stats for post-covid
+
 box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
+bar chart pre vs post
 
 -make large cap marketdf
  summary stats for pre-covid
 summary stats for post-covid
+
 box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
+bar chart pre vs post
 
 --make midcap market df
  summary stats for pre-covid
 summary stats for post-covid
+
 box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
+bar chart pre vs post
 
 --make small cap market df
  summary stats for pre-covid
 summary stats for post-covid
-box plot pre-covid and post-covid returns in one graph
-+ line plot pre vs post covid
 
+box plot pre-covid and post-covid returns in one graph
+bar chart pre vs post
 
 
 
