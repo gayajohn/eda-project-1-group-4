@@ -3,7 +3,7 @@ Project 1 - Impact of COVID-19 on the Stock Market and the Healthcare Industry
 
 
 
-By: Erjola LLuka, Gayatri John, Vincent Pham
+By: Erjola Lluka, Gayatri John, Vincent Pham
 
 
 
