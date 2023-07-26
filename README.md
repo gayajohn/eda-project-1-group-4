@@ -9,7 +9,7 @@ By: Erjola LLuka, Gayatri John, Vincent Pham
 
 What was our motivation?
 
- - We all thought the healthcare industry would outperform the S&P500 during the COVID-19 crisis but of course we must look at the data to verify what we thought to be true.
+ - We all thought the healthcare industry would outperform the market during the COVID-19 crisis but of course we must look at the data to verify what we thought to be true.
  
 What did we learn?
 
