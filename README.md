@@ -6,6 +6,17 @@ Project 1 - Impact of COVID-19 on the Stock Market and the Healthcare Industry
 By: Erjola Lluka, Gayatri John, Vincent Pham
 
 
+Project Description
+
+Analyzing the impact of COVID-19 on stock market returns and taking a deep-dive into the healthcare sector.
+
+
+
+Installing and Running the Project
+
+- There is no need as the code is simply used to verify our analysis. But uploaded for transparency.
+
+
 
 What was our motivation?
 
@@ -20,15 +31,6 @@ What did we learn?
 - Market cap size is impactful on stock returns, with different market cap size categories experiencing different returns and risk (standard deviation). 
 
 - We used SPY and IYH as benchmarks for the market and healthcare sector respectively, and found that both prices and returns move quite similarly.
-
-Project Description
-
-Analyzing the impact of COVID-19 on stock market returns and taking a deep-dive into the healthcare sector.
-
-Installing and Running the Project
-
-- There is no need as the code is simply used to verify our analysis. But uploaded for transparency.
-
 
 References
 
