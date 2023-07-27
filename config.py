@@ -1,1 +1,0 @@
-alphavantage_api_key = 'TUGWVAHC6SF9MH27'
