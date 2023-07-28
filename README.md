@@ -25,10 +25,9 @@ Table of Contents
 
 - SPY vs IYH Folder: This contains scripts written to uncover trends in SPY and IYH prices and returns, and the figures created in the process
 
-- Slide Deck
+- Project 1 Written Report: This is an extensive report that goes into detail about our research question, our data collection, the analysis and our findings.
 
-- Written Report
-
+- Project 1 Presentation: This is the deck we used for our presentation
 
 ------------------------
 What was our motivation?
