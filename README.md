@@ -17,7 +17,6 @@ Analyzing the impact of COVID-19 on stock market returns and taking a deep-dive 
 Table of Contents
 -----------------
 
-<<<<<<< gaya_branch
 - Resources Folder: This contains the scripts written to pull and clean data, as well as the clean data used in the analysis.
 
 - Analysis Folder: This contains the scripts written to conduct the hypothesis tests, and the figures created in the process.
