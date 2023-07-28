@@ -59,3 +59,5 @@ References
 - Stock data from that list of S&P500 companies were pulled from the yahoo_fin.stock_info python library.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+You can find more details in our written report!
