@@ -1,15 +1,19 @@
 # project-1-group-4
-Project 1
+
+-------------------------------------------------------------------------------
+Project 1 - Impact of COVID-19 on the Stock Market and the Healthcare Industry
+-------------------------------------------------------------------------------
+
+By: Erjola Lluka, Gayatri John, Vincent Pham
+
+--------------------
+Project Description
+--------------------
+
+Analyzing the impact of COVID-19 on stock market returns and taking a deep-dive into the healthcare sector.
 
 
-Some questions that we have (so far, and to add more):
+------------------
+Table of Contents
+-----------------
 
-Which healthcare stocks performed best before, during, and after COVID-19?
-
-Did healthcare stocks generally outperform other sectors during COVID-19?
-
-How quickly did healthcare stocks recover after COVID-19 compared to other sectors?
-
-What variables may affect its performance?:
-
-    Does the market cap play a role?
